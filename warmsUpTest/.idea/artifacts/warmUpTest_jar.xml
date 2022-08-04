@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="warmUpTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/warmUpTest_jar</output-path>
+    <root id="archive" name="warmUpTest.jar">
+      <element id="module-output" name="warmsUpTest" />
+    </root>
+  </artifact>
+</component>

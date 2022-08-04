@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="warmUpTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/warmUpTest/warmUpTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
